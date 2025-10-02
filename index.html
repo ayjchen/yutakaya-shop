@@ -1,4 +1,12 @@
----
-layout: home
-author_profile: true
----
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    const lang = (navigator.language || navigator.userLanguage || '').toLowerCase();
+    let url = '/ja/';
+    if (lang.startsWith('en')) url = '/en/';
+    else if (lang.startsWith('zh-tw')) url = '/zh-tw/';
+    window.location.replace(url);
+  </script>
+</head>
+</html>

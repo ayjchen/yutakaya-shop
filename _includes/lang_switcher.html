@@ -1,0 +1,27 @@
+{% assign current_lang = page.lang | default: site.lang %}
+
+<div class="lang-switcher">
+  <span style="vertical-align: middle;">
+    <!-- Globe icon SVG -->
+    <i class="fa fa-globe" style="vertical-align: 3px; margin-right: 6px;"></i>
+  </span>
+  <select onchange="if (this.value) window.location.href=this.value">
+    {% if current_lang == "en" %}
+      <option value="" selected>English</option>
+    {% else %}
+      <option value="{{ page.url | replace_first: '/ja', '/en' | replace_first: '/zh-tw', '/en' }}">English</option>
+    {% endif %}
+
+    {% if current_lang == "ja" %}
+      <option value="" selected>日本語</option>
+    {% else %}
+      <option value="{{ page.url | replace_first: '/en', '/ja' | replace_first: '/zh-tw', '/ja' }}">日本語</option>
+    {% endif %}
+
+    {% if current_lang == "zh-tw" %}
+      <option value="" selected>繁體中文</option>
+    {% else %}
+      <option value="{{ page.url | replace_first: '/en', '/zh-tw' | replace_first: '/ja', '/zh-tw' }}">繁體中文</option>
+    {% endif %}
+  </select>
+</div>
