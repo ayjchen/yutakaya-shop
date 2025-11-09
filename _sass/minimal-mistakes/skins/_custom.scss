@@ -41,3 +41,12 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
     font-size: 0.9rem;
   }
 }
+
+/* Scale images in feature_row2 to 50% */
+.feature-row2-wrapper .feature__item img {
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+

@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "ようこそ"
-lang: "jp"
+lang: "ja"
 permalink: /ja/
 header:
   overlay_color: "#000"
