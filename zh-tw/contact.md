@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "關於我們"
+title: "聯絡我們"
 lang: zh-tw
 permalink: /zh-tw/contact/
 ---
@@ -29,8 +29,8 @@ permalink: /zh-tw/contact/
     locations: [
       {
         title: "豐家本舖",
-        address1: "Kō-1867-1 Kokubunjichō Fuke",
-        address2: "Takamatsu, Kagawa 769-0103, Japan",
+        address1: "〒769-0103 日本",
+        address2: "香川縣高松市國分寺町福家甲1867-1",
         coords: { lat: 34.27405756057258, lng: 133.9710070977311 },
         placeId: "ChIJU-FZWxDDUzUR6hdkWz_YMro"
       }
@@ -61,3 +61,9 @@ permalink: /zh-tw/contact/
     }
   })();
 </script>
+
+<br><br>
+<div class="contact-info">
+    <p><strong>電話：</strong>090-4943-9470</p>
+    <p><strong>電子郵件：</strong><a href="mailto:yutakaya.contact@gmail.com">yutakaya.contact@gmail.com</a></p>
+</div>
