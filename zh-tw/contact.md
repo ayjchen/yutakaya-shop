@@ -20,7 +20,7 @@ permalink: /zh-tw/contact/
 
 <div class="store-locator-wrapper">
   <!-- Replace YOUR_API_KEY_HERE with your real API key -->
-<gmpx-api-loader key="{{ ENV['MAP_KEY'] }}" solution-channel="GMP_QB_locatorplus_v11_c"></gmpx-api-loader>
+  <gmpx-api-loader key="AIzaSyAEtGbfN6UY7aIVkZwY_N0bzFgYibPMBQg" solution-channel="GMP_QB_locatorplus_v11_c"></gmpx-api-loader>
   <gmpx-store-locator id="store-locator" map-id=""></gmpx-store-locator>
 </div>
 
@@ -43,9 +43,9 @@ permalink: /zh-tw/contact/
       streetViewControl: false,
       zoomControl: true,
       maxZoom: 17,
-      mapId: "{{ ENV['MAP_ID'] }}"
+      mapId: "8de95f15a31eaf30f15ba76c"
     },
-    mapsApiKey: "{{ ENV['MAP_KEY'] }}",
+    mapsApiKey: "AIzaSyAEtGbfN6UY7aIVkZwY_N0bzFgYibPMBQg",
     capabilities: { input:false, autocomplete:false, directions:false, distanceMatrix:false, details:false, actions:false }
   };
 
