@@ -1,57 +1,44 @@
 ---
 layout: splash
-title: "Welcome"
+title: "Yutakaya"
 lang: "en"
 permalink: /en/
 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/outside4.jpg
   actions:
-    - label: "Learn More"
-      url: "/terms/"
-  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+    - label: "Map & Contact Us"
+      url: "/en/contact/"
+excerpt: "Yutakaya is a friendly stop for travelers and pilgrims exploring Shikoku.<br>Take a short break during your journey—enjoy a cup of tea, relax in the breeze, have a chat—and continue on your wonderful adventure refreshed!"
+
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/flower.jpg
+  - image_path: /assets/images/lanturn.jpg
+  - image_path: /assets/images/manekineko.jpg
+
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/products.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Souvenir Shop"
+    excerpt: 'Our shop offers a curated selection of popular items from across Japan, including gifts, regional specialties, and charming small goods—perfect for discovering delightful Japanese products during your travels.'
+    url: "https://forms.gle/THaJU4U2S9F95mHK7"
+    url_target: "_blank"
+    btn_label: "Order Now"
     btn_class: "btn--primary"
+
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/plaza1.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Relaxation Area"
+    excerpt: 'Yutakaya provides a cozy rest spot in Takamatsu for travelers and pilgrims. During business hours, we offer complimentary tea and a small snack (one set per person, contents selected by the shop).<br><br>In summer, cool down with a refreshing cup of iced tea.<br>In winter, warm up with a hot drink before continuing your journey.'
+    
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/outside2.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    title: "Center-Aligned Placeholder Image"
+    excerpt: 'This is sample content written with **Markdown** formatting. Centered using `type="center"`.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -59,10 +46,10 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
+<div class="feature-row2-wrapper">
+  {% include feature_row id="feature_row2" type="left" %}
+</div>
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row %}
