@@ -62,6 +62,6 @@ permalink: /ja/contact/
 
 <br><br>
 <div class="contact-info">
-    <p><strong>電話：</strong>090-3070-4456</p>
-    <p><strong>メール：</strong><a href="mailto:yutakaya.contact@gmail.com">yutakaya.contact@gmail.com</a></p>
+    <strong>電話：</strong>090-3070-4456<br>
+    <strong>メール：</strong><a href="mailto:yutakaya.contact@gmail.com">yutakaya.contact@gmail.com</a>
 </div>

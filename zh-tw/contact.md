@@ -64,6 +64,6 @@ permalink: /zh-tw/contact/
 
 <br><br>
 <div class="contact-info">
-    <p><strong>電話：</strong>090-4943-9470</p>
-    <p><strong>電子郵件：</strong><a href="mailto:yutakaya.contact@gmail.com">yutakaya.contact@gmail.com</a></p>
+    <strong>電話：</strong>090-4943-9470<br>
+    <strong>電子郵件：</strong><a href="mailto:yutakaya.contact@gmail.com">yutakaya.contact@gmail.com</a>
 </div>

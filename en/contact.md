@@ -64,6 +64,6 @@ permalink: /en/contact/
 
 <br><br>
 <div class="contact-info">
-    <p><strong>Phone: </strong>080-8128-8973</p>
-    <p><strong>Email: </strong><a href="mailto:yutakaya.contact@gmail.com">yutakaya.contact@gmail.com</a></p>
+    <strong>Phone: </strong>080-8128-8973<br>
+    <strong>Email: </strong><a href="mailto:yutakaya.contact@gmail.com">yutakaya.contact@gmail.com</a>
 </div>
