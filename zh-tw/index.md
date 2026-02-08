@@ -35,9 +35,9 @@ feature_row2:
     alt: "placeholder image 2"
     title: "土產商品小舖"
     excerpt: '商品店舖內備有精選的日本各地的優質暢銷商品、伴手禮、特色土產及各種精緻小物可供選購，滿足您旅途中發現及享受日本好物的需求。'
-    url: "https://forms.gle/THaJU4U2S9F95mHK7"
+    url: "/zh-tw/products"
     url_target: "_blank"
-    btn_label: "前往訂單"
+    btn_label: "精品一覽"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/plaza1.jpg
@@ -57,7 +57,16 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+<style>
+.feature-row figure img {
+  height: 100px;
+  width: auto;
+  object-fit: fill;
+  border-radius: 8px;
+}
+</style>
+
+<!-- {% include feature_row id="intro" type="center" %} -->
 
 <!-- {% include feature_row id="feature_row4" type="center" %} -->
 
@@ -68,3 +77,4 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row %}
+<br>
