@@ -34,6 +34,10 @@ permalink: /zh-tw/products/
   <img src="../../assets/images/products/柚香杏仁果.png" alt="經典商品圖片1">
   <img src="../../assets/images/products/抹茶雪花酥.png" alt="經典商品圖片2">
   <img src="../../assets/images/products/楓糖腰果.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/310酵素精.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/花旗蔘.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/起司魷魚.png" alt="經典商品圖片3">
 </div>
 <!-- 經典商品介紹文字。 -->
 
@@ -45,6 +49,34 @@ permalink: /zh-tw/products/
   <img src="../../assets/images/products/海老腰果.png" alt="新品推薦圖片1">
   <img src="../../assets/images/products/抹茶草莓巧克力.png" alt="新品推薦圖片2">
   <img src="../../assets/images/products/檸檬鱈魚香絲.png" alt="新品推薦圖片3">
+
+  <img src="../../assets/images/products/黑巧.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/白巧.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/米谷干貝糖.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/柚子昆布.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/海帶芽.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/芥末竹筴魚.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/咖哩腰果.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/原味開心豆.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/葉子仙貝巧.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/草莓巧克力.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/十六茶.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/抹茶巧克力.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/起司巧克力.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/味付海苔.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/起司餃子.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/干貝.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/新富大粒干貝糖.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/鮑魚.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/杏仁小魚干.png" alt="經典商品圖片1">
+  <!-- <img src="../../assets/images/products/抹茶雪花酥.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/楓糖腰果.png" alt="經典商品圖片3"> -->
 </div>
 <!-- 新品推薦介紹文字。 -->
 
@@ -53,11 +85,50 @@ permalink: /zh-tw/products/
 
 ## 美容護膚
 <div class="product-grid">
-  <img src="../../assets/images/products/薰衣草馬油.png" alt="美容護膚圖片1">
-  <img src="../../assets/images/products/櫻花出水霜.png" alt="美容護膚圖片2">
+  <img src="../../assets/images/products/原味去角質.png" alt="美容護膚圖片1">
+  <img src="../../assets/images/products/原味出水霜.png" alt="美容護膚圖片2">
   <img src="../../assets/images/products/富士一番面膜.png" alt="美容護膚圖片3">
+
+  <img src="../../assets/images/products/櫻花去角質.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/櫻花出水霜.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/薰衣草馬油.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/Q10金箔馬油.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/馬鬣油.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/國寶馬油精.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/日高純馬油.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/玻尿酸原液.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/眼霜.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/T棒.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/小原匠.png" alt="經典商品圖片2">
+  <!-- <img src="../../assets/images/products/富士妙精.png" alt="經典商品圖片3"> -->
 </div>
 <!-- 限定商品介紹文字。 -->
+
+---
+
+
+## 生活保健
+<div class="product-grid">
+  <img src="../../assets/images/products/溫熱膏.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/削皮刀.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/飯匙.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/TOMA眼罩.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/腰帶.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/鞋墊.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/足貼.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/百痛貼.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/痛痛貼.png" alt="經典商品圖片3">
+
+  <img src="../../assets/images/products/空氣清淨機.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/電子口罩.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/富士妙精.png" alt="經典商品圖片3">
+</div>
+<!-- 經典商品介紹文字。 -->
 
 ---
 
@@ -67,6 +138,10 @@ permalink: /zh-tw/products/
   <img src="../../assets/images/products/FITPLUS.png" alt="時尚精品圖片1">
   <img src="../../assets/images/products/PLANET.png" alt="時尚精品圖片2">
   <img src="../../assets/images/products/克朗托天.png" alt="時尚精品圖片3">
+
+  <img src="../../assets/images/products/TERATITE.png" alt="經典商品圖片1">
+  <!-- <img src="../../assets/images/products/小原匠.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/富士妙精.png" alt="經典商品圖片3"> -->
 </div>
 <!-- 限定商品介紹文字。 -->
 
