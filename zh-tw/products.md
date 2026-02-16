@@ -24,20 +24,20 @@ permalink: /zh-tw/products/
 }
 </style>
 
-<br>
+<!-- <br>
 <p style="text-align: center; margin-bottom: 2em;">
   <a href="https://forms.gle/THaJU4U2S9F95mHK7" target="_blank" class="btn btn--primary">完整商品品項訂單</a>
-</p>
+</p> -->
 
 ## 新品推薦
 <div class="product-grid">
   <img src="../../assets/images/products/柚香杏仁果.png" alt="經典商品圖片1">
   <img src="../../assets/images/products/抹茶雪花酥.png" alt="經典商品圖片2">
-  <img src="../../assets/images/products/楓糖腰果.png" alt="經典商品圖片3">
+  <img src="../../assets/images/products/海老腰果.png" alt="經典商品圖片3">
 
-  <img src="../../assets/images/products/310酵素精.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/葉子仙貝巧.png" alt="經典商品圖片1">
   <img src="../../assets/images/products/花旗蔘.png" alt="經典商品圖片2">
-  <img src="../../assets/images/products/起司魷魚.png" alt="經典商品圖片3">
+  <img src="../../assets/images/products/起司帆立貝.png" alt="經典商品圖片3">
 </div>
 <!-- 經典商品介紹文字。 -->
 
@@ -46,13 +46,13 @@ permalink: /zh-tw/products/
 
 ## 經典熱銷
 <div class="product-grid">
-  <img src="../../assets/images/products/海老腰果.png" alt="新品推薦圖片1">
+  <img src="../../assets/images/products/楓糖腰果.png" alt="新品推薦圖片1">
   <img src="../../assets/images/products/抹茶草莓巧克力.png" alt="新品推薦圖片2">
   <img src="../../assets/images/products/檸檬鱈魚香絲.png" alt="新品推薦圖片3">
 
   <img src="../../assets/images/products/黑巧.png" alt="經典商品圖片1">
   <img src="../../assets/images/products/白巧.png" alt="經典商品圖片2">
-  <img src="../../assets/images/products/米谷干貝糖.png" alt="經典商品圖片3">
+  <img src="../../assets/images/products/起司魷魚.png" alt="經典商品圖片3">
 
   <img src="../../assets/images/products/柚子昆布.png" alt="經典商品圖片1">
   <img src="../../assets/images/products/海帶芽.png" alt="經典商品圖片2">
@@ -60,7 +60,7 @@ permalink: /zh-tw/products/
 
   <img src="../../assets/images/products/咖哩腰果.png" alt="經典商品圖片1">
   <img src="../../assets/images/products/原味開心豆.png" alt="經典商品圖片2">
-  <img src="../../assets/images/products/葉子仙貝巧.png" alt="經典商品圖片3">
+  <img src="../../assets/images/products/310酵素精.png" alt="經典商品圖片3">
 
   <img src="../../assets/images/products/草莓巧克力.png" alt="經典商品圖片1">
   <img src="../../assets/images/products/十六茶.png" alt="經典商品圖片2">
@@ -75,8 +75,8 @@ permalink: /zh-tw/products/
   <img src="../../assets/images/products/鮑魚.png" alt="經典商品圖片3">
 
   <img src="../../assets/images/products/杏仁小魚干.png" alt="經典商品圖片1">
-  <!-- <img src="../../assets/images/products/抹茶雪花酥.png" alt="經典商品圖片2">
-  <img src="../../assets/images/products/楓糖腰果.png" alt="經典商品圖片3"> -->
+  <img src="../../assets/images/products/原味梅干.png" alt="經典商品圖片2">
+  <img src="../../assets/images/products/紫蘇梅干.png" alt="經典商品圖片3">
 </div>
 <!-- 新品推薦介紹文字。 -->
 
@@ -139,7 +139,7 @@ permalink: /zh-tw/products/
   <img src="../../assets/images/products/PLANET.png" alt="時尚精品圖片2">
   <img src="../../assets/images/products/克朗托天.png" alt="時尚精品圖片3">
 
-  <img src="../../assets/images/products/TERATITE.png" alt="經典商品圖片1">
+  <img src="../../assets/images/products/TERATITE_new.png" alt="經典商品圖片1">
   <!-- <img src="../../assets/images/products/小原匠.png" alt="經典商品圖片2">
   <img src="../../assets/images/products/富士妙精.png" alt="經典商品圖片3"> -->
 </div>
@@ -148,8 +148,9 @@ permalink: /zh-tw/products/
 ---
 <br>
 <p style="text-align: center;">
-想看更多？歡迎到店探索全系列品項！若欲線上購買，請參考以下訂購單：
+想看更多？歡迎到店探索全系列品項！
+<!-- 若欲線上購買，請參考以下訂購單： -->
 </p>
-<p style="text-align: center; margin-bottom: 2em;">
+<!-- <p style="text-align: center; margin-bottom: 2em;">
   <a href="https://forms.gle/THaJU4U2S9F95mHK7" target="_blank" class="btn btn--primary">完整商品品項訂單</a>
-</p>
+</p> -->

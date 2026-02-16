@@ -21,12 +21,12 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/products.jpg
     alt: "placeholder image 2"
-    title: "Souvenir Shop"
-    excerpt: 'Our shop offers a curated selection of popular items from across Japan, including gifts, regional specialties, and charming small goods—perfect for discovering delightful Japanese products during your travels.'
-    url: "https://forms.gle/THaJU4U2S9F95mHK7"
-    url_target: "_blank"
-    btn_label: "Order Now"
-    btn_class: "btn--primary"
+    title: "Local Specialty Gift Shop"
+    excerpt: 'Our shop offers a carefully curated selection of popular, high-quality products from across Japan, including best-selling souvenirs, regional specialties, and a variety of charming small goods — perfect for discovering and enjoying the best of Japan during your journey.<br><br>In addition to traditional souvenirs and sweets, we also offer a range of freshly prepared hot foods and beverages, such as the viral new **grilled scallop sausage**, **grilled Japanese mochi**, **hot simmered oden** (fish cakes), and various drinks — ready for you to purchase and enjoy on the spot, adding even more flavor to your travels.'
+    # url: "https://forms.gle/THaJU4U2S9F95mHK7"
+    # url_target: "_blank"
+    # btn_label: "Order Now"
+    # btn_class: "btn--primary"
 
 feature_row3:
   - image_path: /assets/images/plaza1.jpg

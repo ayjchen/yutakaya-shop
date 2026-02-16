@@ -21,12 +21,12 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/products.jpg
     alt: "placeholder image 2"
-    title: "お土産ショップ"
-    excerpt: '店内には日本各地から厳選した人気商品、ギフト、特産品、そしてさまざまな可愛い小物をご用意しております。旅の途中で見つける日本の“良いもの”をぜひお楽しみください。'
-    url: "https://forms.gle/THaJU4U2S9F95mHK7"
-    url_target: "_blank"
-    btn_label: "注文ページへ"
-    btn_class: "btn--primary"
+    title: "土産物ショップ"
+    excerpt: '店内に当店では、日本各地から厳選した人気の高い高品質な商品を取り揃えており、定番のお土産や地域限定の特産品、さまざまな可愛らしい雑貨をご購入いただけます。旅の途中で、日本ならではの魅力を存分にお楽しみください。<br><br>また、お土産やお菓子類の販売に加え、話題の新商品である**焼きホタテソーセージ**、**焼きたての和風もち**、**熱々のおでん**、そして各種ドリンクなど、出来たての軽食もご用意しております。ぜひその場でお買い求めいただき、ご賞味ください。は日本各地から厳選した人気商品、ギフト、特産品、そしてさまざまな可愛い小物をご用意しております。旅の途中で見つける日本の「良いもの」をぜひお楽しみください。'
+    # url: "https://forms.gle/THaJU4U2S9F95mHK7"
+    # url_target: "_blank"
+    # btn_label: "注文ページへ"
+    # btn_class: "btn--primary"
 
 feature_row3:
   - image_path: /assets/images/plaza1.jpg
