@@ -30,3 +30,8 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# misc
+.env
+_config_local.yml
+build.sh
